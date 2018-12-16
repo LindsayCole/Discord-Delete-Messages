@@ -9,6 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
  AutoHotKey (http://www.autohotkey.com)
+ Discord Web App or Discord App
  
 ### Installing
 
